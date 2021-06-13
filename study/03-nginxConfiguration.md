@@ -20,3 +20,7 @@ nginx를 패키지 관리자로 설치했을 때
 /usr/local/nginx/conf/nginx.conf
 ```
 를 사용한다.
+
+
+## document 용어
+- context : 어떤 모듈의 블록 안에서 설정 가능한지 설정

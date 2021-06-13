@@ -16,11 +16,3 @@ sudo apt-get install nginx
 sudo nginx -v
 ```
 > nginx version: nginx/1.18.0 (Ubuntu)
-
-```
-sudo wget https://nginx.org/keys/nginx_signing.key
-```
-
-```
-sudo apt-key add nginx_signing.key
-```
